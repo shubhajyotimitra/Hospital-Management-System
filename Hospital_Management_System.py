@@ -30,6 +30,7 @@ def audit(message: str):
 
 
 # ══════════════════════════════════════════════════════════════════════════════
+# Hospital Management System - Initial Core Logic
 class HospitalManagementSystem:
     """
     Advanced Hospital Management System
